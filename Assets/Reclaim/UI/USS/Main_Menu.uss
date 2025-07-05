@@ -1,0 +1,13 @@
+.menu {
+    align-items: auto;
+    -unity-background-image-tint-color: rgb(0, 0, 0);
+    width: 437px;
+    max-height: 553px;
+}
+
+.Panel {
+    background-color: rgba(10, 14, 18, 0.36);
+}
+
+.unity-button {
+}
