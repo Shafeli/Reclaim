@@ -45,16 +45,16 @@ Assets/
 │ │ ├── Controls/ # Reusable UI widgets/components
 │ │ └── Screens/ # Menus, lesson UI, quiz screens, etc.
 │ ├── Audio/
-│ │ ├── Elders/ # Voice clips from elders (organized by lesson/word)
+│ │ ├── Elders/ # Voice clips.
 │ │ └── SFX/ # Button clicks, transitions, etc.
 │ ├── Art/
 │ │ ├── Icons/ # UI icons and symbols
 │ │ └── Illustrations/ # Culturally relevant artwork
 │ ├── Data/
-│ │ ├── Localization/ # JSON or CSV language files
+│ │ ├── Localization/ #
 │ │ ├── Lessons/ # ScriptableObjects or JSON for vocab/grammar units
 │ │ └── Metadata/ # Language meta info, progress tracking
-│ └── Resources/ # Only if needed for Resources.Load()
+│ └── Resources/ # For Resources.Load()
 │
 ├── ThirdParty/ # Any third-party packages or tools
 ├── Editor/ # Custom editor tooling or utilities
