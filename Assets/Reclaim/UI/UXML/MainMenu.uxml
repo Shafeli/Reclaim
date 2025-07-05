@@ -4,7 +4,7 @@
         <ui:VisualElement name="Container" class="menu" style="flex-grow: 1; align-content: auto; align-self: auto; align-items: center; justify-content: flex-end; border-left-color: rgba(0, 0, 0, 0.73); border-right-color: rgba(0, 0, 0, 0.73); border-top-color: rgba(0, 0, 0, 0.73); border-bottom-color: rgba(0, 0, 0, 0.73);">
             <ui:Label text="Reclaim" style="font-size: 115px;" />
             <ui:Button text="Start" name="Start-Button" />
-            <ui:Button text="Button" />
+            <ui:Button text="Settings" name="Settings-Button" />
             <ui:Button text="End" name="End-Button" style="background-color: rgba(204, 0, 41, 0.24);" />
         </ui:VisualElement>
     </ui:VisualElement>
