@@ -1,6 +1,6 @@
 # Reclaim
 
-**Reclaim** is a tribal language revitalization game designed to reconnect Indigenous youth with their ancestral language, stories, and culture. Blending traditional oral knowledge with modern tools, Reclaim creates an interactive space to learn through voice, storytelling, and play.
+**Reclaim** is a tribal language revitalization game designed to reconnect Indigenous youth with their ancestral language, and culture. Blending traditional oral knowledge with modern tools, Reclaim creates an interactive space to learn through voice, storytelling, and play.
 
 ## 🌱 Purpose
 
