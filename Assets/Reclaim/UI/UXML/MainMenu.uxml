@@ -1,8 +1,8 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
     <Style src="project://database/Assets/Reclaim/UI/USS/Main_Menu.uss?fileID=7433441132597879392&amp;guid=316ffa4ad480549478c128629666c9eb&amp;type=3#Main_Menu" />
     <ui:VisualElement name="Panel" class="Panel" style="flex-grow: 1; align-items: center; justify-content: center; align-content: auto; align-self: auto;">
-        <ui:VisualElement name="Container" class="menu" style="flex-grow: 1; align-content: auto; align-self: auto; align-items: center; justify-content: center;">
-            <ui:Button text="Button" />
+        <ui:VisualElement name="Container" class="menu" style="flex-grow: 1; align-content: auto; align-self: auto; align-items: center; justify-content: flex-end; border-left-color: rgba(0, 0, 0, 0.73); border-right-color: rgba(0, 0, 0, 0.73); border-top-color: rgba(0, 0, 0, 0.73); border-bottom-color: rgba(0, 0, 0, 0.73);">
+            <ui:Button text="Start" name="Start-Button" />
             <ui:Button text="Button" />
             <ui:Button text="Button" />
         </ui:VisualElement>

@@ -3,6 +3,19 @@
     -unity-background-image-tint-color: rgb(0, 0, 0);
     width: 437px;
     max-height: 553px;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-left-color: rgba(76, 96, 45, 0.73);
+    border-right-color: rgba(76, 96, 45, 0.73);
+    border-top-color: rgba(76, 96, 45, 0.73);
+    border-bottom-color: rgba(76, 96, 45, 0.73);
+    background-color: rgba(40, 73, 47, 0.62);
 }
 
 .Panel {
@@ -10,4 +23,27 @@
 }
 
 .unity-button {
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-left-color: rgba(0, 0, 0, 0.75);
+    border-right-color: rgba(0, 0, 0, 0.75);
+    border-top-color: rgba(0, 0, 0, 0.75);
+    border-bottom-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(15, 31, 5, 0.24);
+    -unity-background-scale-mode: scale-and-crop;
+    scale: 1 1;
+    min-width: auto;
+    width: 80%;
+    height: 20%;
+    align-self: center;
+    justify-content: flex-start;
+    align-content: auto;
+    font-size: 70px;
+    color: rgb(12, 14, 15);
 }
